@@ -3,7 +3,7 @@ module github.com/google/differential-privacy/examples/go
 go 1.22
 
 require (
-	github.com/golang/glog v1.2.0
+	github.com/golang/glog v1.2.4
 	github.com/google/differential-privacy/go/v3 v3.0.0
 )
 
